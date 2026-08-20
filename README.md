@@ -1,9 +1,7 @@
 # Collision-Severity-Analysis
 Analysing key trends in collision severity using the Road Safety Open Dataset, creating a reproducible pipeline that spans data cleaning, analysis, and visualisation, which includes a Streamlit dashboard.
 
-## Admin: 
-
-I have extensively detailed my progress in the "Behind the Dashboard", "Weekly Log", and "Project Plan" documents. Please look at these at your own convenience. I have attempted to add as much detail as possible to help future students. An important topic I have emphasised is the **responsible** use of AI to aid one's work, and how I myself have used it. Essentially, my view is that to make the most of this project, students must internalise key technical concepts rather than simply feeding a prompt into AI to create a variety of fancy models without actually understanding what has been created, why it has been created, and how the data has been processed. I maintain that the most important aspect of this project was not the analysis or the visualisations, but rather the **handling of real-life, messy data**. 
+An important topic I have emphasised throughout the notebooks is the **responsible** use of AI to aid one's work, and how I myself have used it. My view is that students must internalise key technical concepts rather than simply feeding a prompt into AI to create a variety of fancy models without actually understanding what has been created, why it has been created, and how the data has been processed. I maintain that the most important aspect of this project was not the analysis or the visualisations, but rather the **handling of real-life, messy data**. 
 
 ## Notebooks: 
 
